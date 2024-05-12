@@ -1,4 +1,5 @@
 Title: Marion Ace Bautista
-logo:
+#logo:
+#descriptipn: text below image
 show_download: true 
 theme: jekyll-theme-minimal
